@@ -1,2 +1,3 @@
-# pythonprojects
-Add you python project here!
+# pythonproject
+Add you python projects
+Print("hello_word")
