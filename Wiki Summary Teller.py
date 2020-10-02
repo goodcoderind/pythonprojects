@@ -1,5 +1,5 @@
 # summary teller
-# Made by abhra kanti Dubey
+# coded by abhra kanti Dubey
 #pip install wikipedia
 
 import wikipedia
